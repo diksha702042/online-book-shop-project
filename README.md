@@ -1,2 +1,2 @@
-In this project we can see multiple varites of books
+In this project we can see multiple varieties of books
 and customers can easily purchase books .
